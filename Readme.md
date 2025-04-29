@@ -33,7 +33,10 @@ Passionate about building scalable web apps, intuitive UI/UX, and tools that mak
 
 ## 📈 GitHub Stats
 
-![Momin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerica-dev&show_icons=true&theme=tokyonight&count_private=true)
+![Momin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mominaliy&show_icons=true&theme=tokyonight&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mominaliy&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mominaliy&layout=compact&theme=tokyonight)
 
 ---
 
