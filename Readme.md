@@ -42,8 +42,8 @@ Passionate about building scalable web apps, intuitive UI/UX, and tools that mak
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
-📧 jerica@example.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/momin-ali-a37991317/)  
+📧 momin.work11@gmail.com
 
 ---
 
