@@ -25,7 +25,7 @@ Passionate about building scalable web apps, intuitive UI/UX, and tools that mak
 | -------------------- | ----------------------------------------------------------- | -------------------------------------- | ------------------------------------------------ |
 | **QuizBrisk**        | Generate smart quizzes & flashcards from any topic or text. | React, Firebase, OpenAI API            | [quizbrisk.com](https://quizbrisk.com)           |
 | **ShipAve**          | A platform that connects travelers with shippers globally.  | NestJS, PostgreSQL, Prisma, Shippo API | [View Demo](https://ship-ave.vercel.app)         |
-| **Stocks Predictor** | Prediction for PSX Stock Prices                             | Next.js, Node.js, TailwindCSS          | [Preview Site](https://www.stockspredictor.com/) |
+| **Reditlly**         | Reddit Marketing Platform for buisness owners               | Next.js, Node.js, TailwindCSS          | [Preview Site](https://reditlly.com/) |
 
 > 🔒 Repositories are private but live demos are accessible.
 
